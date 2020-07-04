@@ -187,7 +187,7 @@ public class JavaSigil {
     }
     public static void main(String[] args) {
         // TODO code application logic here
-        NativeLibrary.addSearchPath("sigil", "C:\\Users\\Andy\\Documents\\NetBeansProjects\\JavaSigil");
+        NativeLibrary.addSearchPath("sigil", "Path to Sigil 64-bit DLL");
         
         final sigil sig = (sigil)Native.loadLibrary("sigil",sigil.class);
 
