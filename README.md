@@ -3,7 +3,7 @@ Wrappers for various multimedia libraries in Java
 
 # ABOUT:
 
-This is a collection of wrappers written in Java for various multimedia libraries, such as SDL, Sigil, etc. Note these wrappers use the JNI way to wrap the various libraries. You will also need the 64-bit version of the DLLs in order to use these wrappers. 
+This is a collection of wrappers written in Java for various multimedia libraries, such as SDL, Sigil, etc. Note these wrappers use the JNA way to wrap the various libraries. You will also need the 64-bit version of the DLLs in order to use these wrappers. 
 
 # WRAPPERS:
 * Sigil
