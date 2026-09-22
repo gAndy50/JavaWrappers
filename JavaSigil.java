@@ -3,6 +3,7 @@
  Written by Andy P.
  Icy Viking Games
  Java wrapper for Sigil
+ Copyright (c) 2026
  */
 package javasigil;
 
